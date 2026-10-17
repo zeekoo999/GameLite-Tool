@@ -15,6 +15,7 @@ gaming and privacy tweaks - all from one window, and all reversible.
 </div>
 
 ---
+<img width="1720" height="1347" alt="image" src="https://github.com/user-attachments/assets/652bcc19-02f2-415e-8b33-0cdc6ec091ea" />
 
 ## Table of contents
 
